@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/simratsingh2002-mcp-server-latest-doc-badge.png)](https://mseep.ai/app/simratsingh2002-mcp-server-latest-doc)
+
 # MCP Server
 
 A minimal Model Context Protocol (MCP) server that exposes documentation-search tools for any AI agent. Use this server to fetch and search docs for popular libraries (LangChain, LlamaIndex, OpenAI) and wire them seamlessly into your agents.
